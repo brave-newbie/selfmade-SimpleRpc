@@ -1,0 +1,2 @@
+protostuff=com.dubbo_rpc.serializer.ProtostuffSerializer
+json=com.dubbo_rpc.serializer.JsonSerializer
